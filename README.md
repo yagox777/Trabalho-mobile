@@ -35,8 +35,3 @@ Do ponto de vista acadêmico, o projeto permite que os integrantes do grupo apli
 
 Dessa forma, o “Macros – Contador de Calorias” representa a união entre **aprendizado técnico, responsabilidade social e impacto positivo na rotina do usuário**, oferecendo uma ferramenta digital moderna, educativa e funcional, que contribui para o bem-estar físico e nutricional da população.
 
----
-
-Se você quiser, eu posso fazer agora uma **versão adaptada para fala de apresentação oral**, que fique **mais natural e envolvente**, mantendo todo esse conteúdo detalhado, mas com uma linguagem que seja fácil de apresentar em sala de aula.
-
-Quer que eu faça isso?
